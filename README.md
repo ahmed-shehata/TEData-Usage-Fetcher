@@ -1,5 +1,6 @@
+![MyTEData Logo](https://mytedata.net/images/Logo_EN.png)
 # TEData-Usage-Fetcher
-TEData Usage Fetcher; Fetch your usage information using MyTEData
+TEData Usage Fetcher; Fetch your usage information using [MyTEData](https://mytedata.net)
 
 ## Usage
 
