@@ -4,7 +4,7 @@ TEData Usage Fetcher; Fetch your usage information using [MyTEData](https://myte
 
 ## Usage
 
-COBezierTableView can be imported into both Swift and Objective-C projects.
+Install PhantomJS and pass in the MyTedata username and password.
 
 PhantomJS: 
 
