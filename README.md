@@ -9,6 +9,9 @@ PhantomJS:
 
 ```Javascript
 npm install phantomjs -g
+```
+
+```Javascript
 phantomjs TEFetcher.js <mytedata-email> <mytedata-password>
 
 ```
